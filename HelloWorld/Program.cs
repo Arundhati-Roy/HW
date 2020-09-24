@@ -15,7 +15,7 @@ namespace HelloWorld
             //c.AddNunber(3, 6);
             int ca = c.AddNumber(3, 6);
             Console.WriteLine(ca);
-            Console.WriteLine("Hello Guys!");
+            Console.WriteLine("Hello welcome, back Guys!");
             string x = Console.ReadLine();
 
             Console.WriteLine(x);
